@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Petals:rosie:1
+Bloom:rosie-angry:1
+Poison:rosie-furious:1
+Nightshade:rosie:1

@@ -1,0 +1,5 @@
+bf
+gf
+rosie
+rosie-angry
+rosie-furious
