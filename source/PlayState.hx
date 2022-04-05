@@ -53,7 +53,9 @@ import lime.utils.Assets;
 import openfl.display.BlendMode;
 import openfl.display.StageQuality;
 import openfl.filters.ShaderFilter;
+#if mobileC
 import ui.Mobilecontrols;
+#end
 
 #if windows
 import Discord.DiscordClient;
